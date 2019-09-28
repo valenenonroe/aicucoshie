@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mieraopha.rooufer.cn/sitemap.xml
